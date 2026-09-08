@@ -1,0 +1,16 @@
+记账本发布到 GitHub Pages
+
+1. 登录 github.com，点击右上角 + → New repository。
+2. Repository name 填 ledger-app。
+3. 选择 Public，然后点击 Create repository。
+4. 点击 uploading an existing file。
+5. 解压本压缩包，把解压后的“里面所有文件”拖入上传区域。
+   注意：index.html 必须在仓库第一层，不能把外层文件夹整个套进去。
+6. 点击 Commit changes。
+7. 打开 Settings → Pages。
+8. Source 选择 Deploy from a branch。
+9. Branch 选择 main，Folder 选择 /(root)，点击 Save。
+10. 页面发布后，地址通常是：
+    https://你的GitHub用户名.github.io/ledger-app/
+
+在 iPhone Safari 打开上述网址 → 分享 → 添加到主屏幕。
